@@ -6,7 +6,7 @@
 
 </div>
 
-## 🚀 About Me
+## About Me
 
 <div align="center">
 
@@ -18,11 +18,11 @@
 
 <br/>
 
-**🎯 Specialties**
+**Specialties**
 
 <div align="center">
 
-| 📱 Mobile | 🎨 Frontend | ⚙️ Backend | 🤖 AI / ML |
+| Mobile | Frontend | Backend | AI / ML |
 |:---:|:---:|:---:|:---:|
 | Flutter • Dart | React • Angular • JS | ASP.NET • C# | Python • TensorFlow • NumPy |
 
@@ -34,7 +34,7 @@
 
 <br/>
 
-**📈 Activity**
+**Activity**
 
 <!--START_SECTION:waka-->
 ![Repos](https://img.shields.io/badge/Public_Repos-12-880000?style=flat-square&logo=github&logoColor=white)
@@ -47,7 +47,7 @@
 > 💬 *"Code is not just a job, it's a craft. I build things that matter."*
 
 
-## 🛠️ Tech Stack
+##Tech Stack
 
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
 ![ASP.NET](https://img.shields.io/badge/ASP.NET_MVC-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
@@ -60,7 +60,7 @@
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
-## 🏆 Achievements
+## Achievements
 
 <div align="center">
 
@@ -68,7 +68,7 @@
 
 </div>
 
-## 📊 Activity Graph
+## Activity Graph
 
 <div align="center">
 
@@ -76,7 +76,7 @@
 
 </div>
 
-## 📬 Connect With Me
+## Connect With Me
 
 [![Email](https://img.shields.io/badge/Email-CC0000?style=for-the-badge&logo=gmail&logoColor=white)](mailto:duylnguyen0212@email.com)
 [![Facebook](https://img.shields.io/badge/Facebook-CC0000?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/duylinhnguyen02122005/)
