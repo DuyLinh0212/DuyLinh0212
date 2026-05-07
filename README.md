@@ -44,7 +44,7 @@
 
 <br/>
 
-> 💬 *"Code is not just a job, it's a craft. I build things that matter."*
+> *"Code is not just a job, it's a craft. I build things that matter."*
 
 
 ##Tech Stack
