@@ -34,9 +34,9 @@
 **📈 Activity**
 
 <!--START_SECTION:waka-->
-![Contributions](https://img.shields.io/badge/Contributions_this_year-170_commits-CC0000?style=flat-square&logo=github&logoColor=white)
 ![Repos](https://img.shields.io/badge/Public_Repos-12-880000?style=flat-square&logo=github&logoColor=white)
 ![Followers](https://img.shields.io/badge/Followers-1-550000?style=flat-square&logo=github&logoColor=white)
+![Commits](https://img.shields.io/badge/dynamic/json?url=https://api.github.com/search/commits?q=author:DuyLinh0212&label=Total_Commits&query=$.total_count&color=660000&style=flat-square&logo=github&logoColor=white)
 <!--END_SECTION:waka-->
 
 <br/>
@@ -89,10 +89,10 @@
 
 ## 📬 Connect With Me
 
-[![Email](https://img.shields.io/badge/Email-CC0000?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your@email.com)
+[![Email](https://img.shields.io/badge/Email-CC0000?style=for-the-badge&logo=gmail&logoColor=white)](mailto:duylnguyen0212@email.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-990000?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/duylinh)
 [![Portfolio](https://img.shields.io/badge/Portfolio-660000?style=for-the-badge&logo=vercel&logoColor=white)](https://yoursite.com)
-[![Facebook](https://img.shields.io/badge/Facebook-CC0000?style=for-the-badge&logo=facebook&logoColor=white)](https://facebook.com/duylinh)
+[![Facebook](https://img.shields.io/badge/Facebook-CC0000?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/duylinhnguyen02122005/)
 
 ---
 
