@@ -1,14 +1,14 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=FFCC00&center=true&vCenter=true&width=700&lines=Flutter+Developer;ASP.NET+MVC+Developer;AI+%2F+Machine+Learning;HUIT+Student;Always+Learning+New+Things" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=FF3333&center=true&vCenter=true&width=700&lines=Flutter+Developer;ASP.NET+MVC+Developer;AI+%2F+Machine+Learning;HUIT+Student;Always+Learning+New+Things" />
 
-# 🖥️ DUY LINH
+# 🔴 DUY LINH
 
 ### Full-stack Developer • Mobile Developer • AI Enthusiast
 
----
-
 </div>
+
+---
 
 # 🚀 About Me
 
@@ -21,7 +21,7 @@ specialties:
   - Mobile App Development
   - Backend Development
   - Machine Learning
-status: "Always Learning + New Things 🌱"
+status: "Always Learning + New Things 🔥"
 ```
 
 ---
@@ -33,6 +33,7 @@ status: "Always Learning + New Things 🌱"
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white)
+![CSharp](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
@@ -45,15 +46,15 @@ status: "Always Learning + New Things 🌱"
 
 <div align="center">
 
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=DuyLinh0212&show_icons=true&theme=github_dark&hide_border=true&title_color=FFCC00&icon_color=58a6ff" />
+<img height="160" src="https://github-readme-stats.vercel.app/api?username=DuyLinh0212&show_icons=true&theme=dark&hide_border=true&title_color=FF3333&icon_color=FF6666&text_color=f0d0d0&bg_color=0a0000" />
 
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DuyLinh0212&layout=compact&theme=github_dark&hide_border=true&title_color=FFCC00" />
+<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DuyLinh0212&layout=compact&theme=dark&hide_border=true&title_color=FF3333&text_color=f0d0d0&bg_color=0a0000" />
 
 </div>
 
 <div align="center">
 
-![GitHub Streak](https://streak-stats.demolab.com/?user=DuyLinh0212&theme=github-dark-blue&hide_border=true&ring=FFCC00&fire=FFCC00&currStreakLabel=FFCC00)
+![GitHub Streak](https://streak-stats.demolab.com/?user=DuyLinh0212&theme=dark&hide_border=true&ring=FF3333&fire=FF3333&currStreakLabel=FF3333&background=0a0000&stroke=3a0000&dates=884444)
 
 </div>
 
@@ -63,7 +64,7 @@ status: "Always Learning + New Things 🌱"
 
 <div align="center">
 
-![Trophies](https://github-profile-trophy.vercel.app/?username=DuyLinh0212&theme=darkhub&no-frame=true&column=4)
+![Trophies](https://github-profile-trophy.vercel.app/?username=DuyLinh0212&theme=darkhub&no-frame=true&column=4&title_color=FF3333)
 
 </div>
 
@@ -71,15 +72,15 @@ status: "Always Learning + New Things 🌱"
 
 # 📬 Connect With Me
 
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your@email.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/duylinh)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=vercel&logoColor=white)](https://yoursite.com)
-[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://facebook.com/duylinh)
+[![Email](https://img.shields.io/badge/Email-FF3333?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your@email.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-CC2222?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/duylinh)
+[![Portfolio](https://img.shields.io/badge/Portfolio-991111?style=for-the-badge&logo=vercel&logoColor=white)](https://yoursite.com)
+[![Facebook](https://img.shields.io/badge/Facebook-660000?style=for-the-badge&logo=facebook&logoColor=white)](https://facebook.com/duylinh)
 
 ---
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=DuyLinh0212&color=FFCC00&style=flat-square" alt="Profile views" />
+  <img src="https://komarev.com/ghpvc/?username=DuyLinh0212&color=FF3333&style=flat-square" />
   <br/>
-  <i>Profile tự động cập nhật • Made with ❤️ by Duy Linh</i>
+  <i>Made with 🔴 by Duy Linh</i>
 </div>
