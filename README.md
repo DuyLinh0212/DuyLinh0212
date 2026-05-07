@@ -5,7 +5,6 @@
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=CC0000&center=true&vCenter=true&width=700&lines=Flutter+Developer;ASP.NET+MVC+Developer;Python+%2F+Machine+Learning;HUIT+University+Student;Always+Learning+New+Things+%F0%9F%94%A5" />
 
 </div>
----
 
 ## 🚀 About Me
 
@@ -47,7 +46,6 @@
 
 > 💬 *"Code is not just a job, it's a craft. I build things that matter."*
 
----
 
 ## 🛠️ Tech Stack
 
@@ -62,8 +60,6 @@
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
----
-
 ## 🏆 Achievements
 
 <div align="center">
@@ -72,8 +68,6 @@
 
 </div>
 
----
-
 ## 📊 Activity Graph
 
 <div align="center">
@@ -81,9 +75,6 @@
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=DuyLinh0212&bg_color=1a0000&color=FF4444&line=CC0000&point=ffffff&area=true&hide_border=true" />
 
 </div>
-
----
-
 ## 📬 Connect With Me
 
 [![Email](https://img.shields.io/badge/Email-CC0000?style=for-the-badge&logo=gmail&logoColor=white)](mailto:duylnguyen0212@email.com)
