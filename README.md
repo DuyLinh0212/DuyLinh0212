@@ -75,11 +75,10 @@
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=DuyLinh0212&bg_color=1a0000&color=FF4444&line=CC0000&point=ffffff&area=true&hide_border=true" />
 
 </div>
+
 ## 📬 Connect With Me
 
 [![Email](https://img.shields.io/badge/Email-CC0000?style=for-the-badge&logo=gmail&logoColor=white)](mailto:duylnguyen0212@email.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-990000?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/duylinh)
-[![Portfolio](https://img.shields.io/badge/Portfolio-660000?style=for-the-badge&logo=vercel&logoColor=white)](https://yoursite.com)
 [![Facebook](https://img.shields.io/badge/Facebook-CC0000?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/duylinhnguyen02122005/)
 
 ---
