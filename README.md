@@ -10,35 +10,39 @@
 
 ## 🚀 About Me
 
-<table>
-  <tr>
-    <td width="55%" valign="top">
+<div align="center">
 
-| | |
-|---|---|
-| 👤 **Name** | Duy Linh |
-| 🏫 **Education** | HUIT University |
-| 📚 **Major** | Information Technology |
-| 💼 **Role** | Full-stack Developer |
-| 📍 **Location** | Ho Chi Minh City, VN 🇻🇳 |
-| ⚡ **Status** | Always Learning 🔥 |
+![Education](https://img.shields.io/badge/🏫_Education-Ho_Chi_Minh_City_University_of_Industry_%26_Trade-CC0000?style=for-the-badge&labelColor=fff0f0&color=CC0000)
+![Role](https://img.shields.io/badge/💼_Role-Full--stack_Developer-CC0000?style=for-the-badge&labelColor=fff0f0&color=880000)
+![Location](https://img.shields.io/badge/📍_Location-Ho_Chi_Minh_City_🇻🇳-CC0000?style=for-the-badge&labelColor=fff0f0&color=550000)
 
-    </td>
-    <td width="45%" valign="top">
+</div>
+
+<br/>
 
 **🎯 Specialties**
 
-![Mobile](https://img.shields.io/badge/📱_Mobile_App-Flutter_%2F_Dart-CC0000?style=flat-square&labelColor=fff5f5)
+```
+📱  Mobile App   →   Flutter / Dart
+🎨  Frontend     →   React / Angular / JavaScript
+⚙️  Backend      →   ASP.NET / C#
+🤖  AI / ML      →   Python / TensorFlow / NumPy
+```
 
-![Backend](https://img.shields.io/badge/🖥️_Backend-ASP.NET_MVC_%2F_C%23-CC0000?style=flat-square&labelColor=fff5f5)
+<br/>
 
-![AI](https://img.shields.io/badge/🤖_AI_%2F_ML-Python_%2F_TensorFlow-CC0000?style=flat-square&labelColor=fff5f5)
+**📈 Activity**
 
-    </td>
-  </tr>
-</table>
+<!--START_SECTION:waka-->
+![Contributions](https://img.shields.io/badge/Contributions_this_year-170_commits-CC0000?style=flat-square&logo=github&logoColor=white)
+![Repos](https://img.shields.io/badge/Public_Repos-12-880000?style=flat-square&logo=github&logoColor=white)
+![Followers](https://img.shields.io/badge/Followers-1-550000?style=flat-square&logo=github&logoColor=white)
+<!--END_SECTION:waka-->
+
+<br/>
 
 > 💬 *"Code is not just a job, it's a craft. I build things that matter."*
+
 ---
 
 ## 🛠️ Tech Stack
