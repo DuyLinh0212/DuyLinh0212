@@ -10,18 +10,35 @@
 
 ## 🚀 About Me
 
-```yaml
-name: Duy Linh
-education: HUIT University
-major: Information Technology
-role: Full-stack Developer
-specialties:
-  - Mobile App Development (Flutter / Dart)
-  - Backend Development (ASP.NET MVC / C#)
-  - Machine Learning (Python / TensorFlow)
-status: "Always Learning + New Things 🔥"
-```
+<table>
+  <tr>
+    <td width="55%" valign="top">
 
+| | |
+|---|---|
+| 👤 **Name** | Duy Linh |
+| 🏫 **Education** | HUIT University |
+| 📚 **Major** | Information Technology |
+| 💼 **Role** | Full-stack Developer |
+| 📍 **Location** | Ho Chi Minh City, VN 🇻🇳 |
+| ⚡ **Status** | Always Learning 🔥 |
+
+    </td>
+    <td width="45%" valign="top">
+
+**🎯 Specialties**
+
+![Mobile](https://img.shields.io/badge/📱_Mobile_App-Flutter_%2F_Dart-CC0000?style=flat-square&labelColor=fff5f5)
+
+![Backend](https://img.shields.io/badge/🖥️_Backend-ASP.NET_MVC_%2F_C%23-CC0000?style=flat-square&labelColor=fff5f5)
+
+![AI](https://img.shields.io/badge/🤖_AI_%2F_ML-Python_%2F_TensorFlow-CC0000?style=flat-square&labelColor=fff5f5)
+
+    </td>
+  </tr>
+</table>
+
+> 💬 *"Code is not just a job, it's a craft. I build things that matter."*
 ---
 
 ## 🛠️ Tech Stack
