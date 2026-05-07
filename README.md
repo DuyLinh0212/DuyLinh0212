@@ -5,7 +5,6 @@
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=CC0000&center=true&vCenter=true&width=700&lines=Flutter+Developer;ASP.NET+MVC+Developer;Python+%2F+Machine+Learning;HUIT+University+Student;Always+Learning+New+Things+%F0%9F%94%A5" />
 
 </div>
-
 ---
 
 ## 🚀 About Me
