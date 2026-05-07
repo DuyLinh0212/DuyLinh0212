@@ -22,12 +22,17 @@
 
 **🎯 Specialties**
 
-```
-📱  Mobile App   →   Flutter / Dart
-🎨  Frontend     →   React / Angular / JavaScript
-⚙️  Backend      →   ASP.NET / C#
-🤖  AI / ML      →   Python / TensorFlow / NumPy
-```
+<div align="center">
+
+| 📱 Mobile | 🎨 Frontend | ⚙️ Backend | 🤖 AI / ML |
+|:---:|:---:|:---:|:---:|
+| Flutter • Dart | React • Angular • JS | ASP.NET • C# | Python • TensorFlow • NumPy |
+
+<br/>
+
+<img src="https://skillicons.dev/icons?i=flutter,dart,react,angular,js,dotnet,cs,python,tensorflow&theme=dark&perline=9" />
+
+</div>
 
 <br/>
 
@@ -60,28 +65,21 @@
 
 ---
 
-## 📊 GitHub Stats
+## 🏆 Achievements
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=DuyLinh0212&show_icons=true&theme=dark&hide_border=true&title_color=CC0000&icon_color=ff4444&text_color=ffffff&bg_color=1a0000" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DuyLinh0212&layout=compact&theme=dark&hide_border=true&title_color=CC0000&text_color=ffffff&bg_color=1a0000" />
-
-</div>
-
-<div align="center">
-
-![Streak](https://streak-stats.demolab.com/?user=DuyLinh0212&theme=dark&hide_border=true&ring=CC0000&fire=FF4444&currStreakLabel=CC0000&background=1a0000&stroke=550000&dates=aa6666)
+<img src="https://github-profile-trophy.vercel.app/?username=DuyLinh0212&theme=radical&no-frame=true&column=7&margin-w=6" />
 
 </div>
 
 ---
 
-## 🏆 GitHub Trophies
+## 📊 Activity Graph
 
 <div align="center">
 
-![Trophies](https://github-profile-trophy.vercel.app/?username=DuyLinh0212&theme=darkhub&no-frame=true&column=4&margin-w=8)
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=DuyLinh0212&bg_color=1a0000&color=FF4444&line=CC0000&point=ffffff&area=true&hide_border=true" />
 
 </div>
 
